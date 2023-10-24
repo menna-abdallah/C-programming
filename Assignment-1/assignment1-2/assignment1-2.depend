@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697750100 source:c:\users\el3araby\desktop\c labs\assignment1-2\main.c
+	<stdio.h>
+
+1697750254 source:e:\c labs\lec3\magicbox\magicbox.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
