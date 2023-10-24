@@ -63,6 +63,8 @@ int main()
                     str[i] = str[i + 1];
                 }
                 arrow--;
+                system("cls");
+                printf("%s",str);
             }
                 break;
                   // printing string
@@ -80,4 +82,3 @@ int main()
     }
     return 0;
     }
-

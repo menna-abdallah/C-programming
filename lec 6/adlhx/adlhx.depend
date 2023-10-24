@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698179243 source:e:\c labs\lec 6\adlhx\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
